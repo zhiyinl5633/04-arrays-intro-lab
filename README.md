@@ -11,7 +11,7 @@
 
 1. Fork and clone this repository.
 2. Run the test suite with the `rspec` command in your command line. 
-3. The first set of tests will require you to build methods that instantiate and return arrays. Read the `intro_to_arrays_spec.rb` file to learn what is required of you to get the tests passing. **NOTE:** In the spec file, you will see variables with the `@` symbol, such as `@my_new_array`.  You can completely ignore the `@` symbol for now: when you make your variables, just use the regular syntax.  The `@` symbol changes what kind of variable it is (this will make more sense when we get to classes & objects).
+3. The first set of tests will require you to build methods that instantiate and return arrays. Read the `intro_to_arrays_spec.rb` file to learn what is required of you to get the tests passing. 
 4. The second set of tests requires you to use indexing to access certain array elements. Read the `intro_to_arrays_spec.rb` file to learn what is required of you to get the tests passing. 
 5. The third set of tests requires you to use array methods to access array elements and perform other operations on arrays. Read the `intro_to_arrays_spec.rb` file to learn what is required of you to get the tests passing. 
 
